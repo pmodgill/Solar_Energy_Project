@@ -1,1 +1,17 @@
+html {
+  margin:0;
+  padding:0;
+  max-height: 100vh;
+}
+body {
+  font-family: "Lucida Console", "Courier New", monospace;
+  height: 75%;
+  margin:0;
+  padding:0;
+}
 
+#site_heading{
+  text-transform: uppercase;
+  text-align: center;
+  padding: 36px 0;
+}
